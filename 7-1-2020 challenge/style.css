@@ -1,0 +1,15 @@
+body{
+  background-color: rgb(255, 99, 71);
+   text-align: center;
+}
+h1{
+  color: #fff;
+  text-decoration: underline;
+}
+button{
+  margin: 30px;
+  padding: 5px;
+  border-radius: 50px;
+  border: 0px;
+ 
+}
